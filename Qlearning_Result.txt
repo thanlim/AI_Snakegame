@@ -1,0 +1,1503 @@
+To play use 'wasd' to move.
+To exit use 'x'.
+Press enter to start.
+Episode 99999
+XXXXXXXXXXXX
+Xe_________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X_e________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__e_______X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X___e______X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X____e_____X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X_____e____X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X______e___X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X_______e__X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X________e_X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X_________eX
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+Xe_________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X_e________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__e_______X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X___e______X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X____e_____X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X_____e____X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X______e___X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X_______e__X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X________e_X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X_________eX
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+Xe_________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X_e________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__e_______X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X___e______X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X____e_____X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X_____e____X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X______e___X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X_______e__X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X________e_X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X_________eX
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+Xe_________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X_e________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__e_______X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X___e______X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X____e_____X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X_____e____X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X______e___X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X_______e__X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X________e_X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X_________eX
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+Xe___a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X_e__a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X__e_a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X___ea_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____ae____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_e___X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a__e__X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a___e_X
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a____eX
+X__________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+Xe_________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 6
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X_e________X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 6
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__e_______X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 6
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X___e______X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 6
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X____e_____X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 1
+Points scored: 1
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X_____e____X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 6
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X______e___X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 6
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X_______e__X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 6
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X________e_X
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 6
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X_________eX
+X__________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 6
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+Xe_________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 7
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X_e________X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 7
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__e_______X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 7
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X___e______X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 7
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X____e_____X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 2
+Points scored: 1
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X_____e____X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 7
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X______e___X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 7
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X_______e__X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 7
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X________e_X
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 7
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X_________eX
+X__________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 7
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+Xe_________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 8
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X_e________X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 8
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__e_______X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 8
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X___e______X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 8
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X____e_____X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 3
+Points scored: 1
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X_____e____X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 8
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X______e___X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 8
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X_______e__X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 8
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X________e_X
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 8
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X_________eX
+X__________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 8
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+Xe_________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 9
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X_e________X
+X__________X
+XXXXXXXXXXXX
+These are steps: 9
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__e_______X
+X__________X
+XXXXXXXXXXXX
+These are steps: 9
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X___e______X
+X__________X
+XXXXXXXXXXXX
+These are steps: 9
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X____e_____X
+X__________X
+XXXXXXXXXXXX
+These are steps: 4
+Points scored: 1
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X_____e____X
+X__________X
+XXXXXXXXXXXX
+These are steps: 9
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X______e___X
+X__________X
+XXXXXXXXXXXX
+These are steps: 9
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X_______e__X
+X__________X
+XXXXXXXXXXXX
+These are steps: 9
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X________e_X
+X__________X
+XXXXXXXXXXXX
+These are steps: 9
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X_________eX
+X__________X
+XXXXXXXXXXXX
+These are steps: 9
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+Xe_________X
+XXXXXXXXXXXX
+These are steps: 10
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X_e________X
+XXXXXXXXXXXX
+These are steps: 10
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X__e_______X
+XXXXXXXXXXXX
+These are steps: 10
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X___e______X
+XXXXXXXXXXXX
+These are steps: 10
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X____e_____X
+XXXXXXXXXXXX
+These are steps: 5
+Points scored: 1
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X_____e____X
+XXXXXXXXXXXX
+These are steps: 10
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X______e___X
+XXXXXXXXXXXX
+These are steps: 10
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X_______e__X
+XXXXXXXXXXXX
+These are steps: 10
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X________e_X
+XXXXXXXXXXXX
+These are steps: 10
+Points scored: 0
+Episode 99999
+XXXXXXXXXXXX
+X__________X
+X__________X
+X__________X
+X__________X
+X____a_____X
+X__________X
+X__________X
+X__________X
+X__________X
+X_________eX
+XXXXXXXXXXXX
+These are steps: 10
+Points scored: 0
